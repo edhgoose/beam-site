@@ -3,7 +3,7 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.2'
+gem 'jekyll', '3.6.3'
 
 # Jekyll plugins
 group :jekyll_plugins do
